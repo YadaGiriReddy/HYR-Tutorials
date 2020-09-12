@@ -7,7 +7,7 @@ You can find the GitHub link in the video description or you can directly browse
 ### YouTube Channel Link: https://www.youtube.com/hyrtutorials
 
 
-## Checkout my YouTube Tutorials Playlists 👇
+## Checkout my YouTube Tutorial Playlists 👇
 
 Java videos: 
 https://www.youtube.com/playlist?list=PLacgMXFs7kl-zv91MY_CDwzToOEiXDcsw 
