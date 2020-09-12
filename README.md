@@ -9,33 +9,18 @@ You can find the GitHub link in the video description or you can directly browse
 
 ## Checkout my YouTube Tutorial Playlists 👇
 
-Java videos: 
-https://bit.ly/3keRJGa
-
-Selenium videos:
-https://bit.ly/2FyKvxj
-
-Selenium interview questions videos: 
-https://bit.ly/3matUB3
-
-Windows Automation with FlaUI videos:
-https://bit.ly/33CG4dB
-
-CSS Selectors videos:
-https://bit.ly/2Rn0IbD
-
-XPath videos:
-https://bit.ly/2RlLdkw
-
-Javascript Executor videos:
-https://bit.ly/2FhNXwS
-
-Apache POI videos:
-https://bit.ly/2RrngrH
-
-Maven videos:
-https://bit.ly/2DYfYZE
-
+| Playlist Name  | Link   |
+| ------------- |-------------|
+| Windows Automation with FlaUI |https://bit.ly/33CG4dB |
+| Java for Absolute Beginners | https://bit.ly/3keRJGa |
+| Selenium with Java     | https://bit.ly/2FyKvxj |
+| Selenium Interview Questions | https://bit.ly/3matUB3 |
+| CSS Selectors | https://bit.ly/2Rn0IbD |
+| XPath | https://bit.ly/2RlLdkw |
+| Javascript Executor | https://bit.ly/2FhNXwS |
+| Apache POI | https://bit.ly/2RrngrH |
+| Maven | https://bit.ly/2DYfYZE |
+| How to fix Eclipse Errors |https://bit.ly/3ipvNYf |
 
 ## Connect Me/ Follow Me @ 👇
 
