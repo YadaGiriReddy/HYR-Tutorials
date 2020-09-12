@@ -10,31 +10,31 @@ You can find the GitHub link in the video description or you can directly browse
 ## Checkout my YouTube Tutorial Playlists 👇
 
 Java videos: 
-https://www.youtube.com/playlist?list=PLacgMXFs7kl-zv91MY_CDwzToOEiXDcsw 
+https://bit.ly/3keRJGa
 
 Selenium videos:
-https://www.youtube.com/playlist?list=PLacgMXFs7kl8e8xIdMDQEi2c6eQnO1toK
+https://bit.ly/2FyKvxj
 
 Selenium interview questions videos: 
-https://www.youtube.com/playlist?list=PLacgMXFs7kl_4ihpBb-O8s95TiG2iea1T
+https://bit.ly/3matUB3
 
 Windows Automation with FlaUI videos:
-https://www.youtube.com/playlist?list=PLacgMXFs7kl_fuSSe6lp6YRaeAp6vqra9
+https://bit.ly/33CG4dB
 
 CSS Selectors videos:
-https://www.youtube.com/playlist?list=PLacgMXFs7kl8E5xl-nu_7ZjHN0O4oiFcl
+https://bit.ly/2Rn0IbD
 
 XPath videos:
-https://www.youtube.com/playlist?list=PLacgMXFs7kl-w3RW5IN0eWVIHsYV8uHdz
+https://bit.ly/2RlLdkw
 
 Javascript Executor videos:
-https://www.youtube.com/playlist?list=PLacgMXFs7kl-1RxY2YyKa76LCA-qSnkNP
+https://bit.ly/2FhNXwS
 
 Apache POI videos:
-https://www.youtube.com/playlist?list=PLacgMXFs7kl9yyK8YqzEzXy9Zg3JE0eWW
+https://bit.ly/2RrngrH
 
 Maven videos:
-https://www.youtube.com/playlist?list=PLacgMXFs7kl_JokHUw6DN2s14nQPjvRRn
+https://bit.ly/2DYfYZE
 
 
 ## Connect Me/ Follow Me @ 👇
