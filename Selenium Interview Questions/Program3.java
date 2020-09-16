@@ -16,7 +16,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 /**
  * @author Yadagiri Reddy
- * How to find broken links using Selenium WebDriver?
+ * How to find Broken Links using Selenium WebDriver?
  */
 public class Program3 {
 	public static void main(String[] args) throws Exception {
