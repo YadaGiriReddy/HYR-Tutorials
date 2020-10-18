@@ -1,5 +1,9 @@
 package practicePrograms;
 
+/**
+ * @author Yadagiri Reddy
+ * This class is used for demonstrating if and if-else statements in Java.
+ */
 public class DecisionMakingStatements {
 	/*
 	Write a program to verify the eligibility of a student
