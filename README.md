@@ -1,6 +1,6 @@
 # H Y R Tutorials
 
-This repository is created and will be used for uploading the programs which I used in my tutorial videos.
+This repository is created and will be used for uploading the programs which I created in my tutorial videos.
 
 You can find the GitHub link in the video description or you can directly browse the content from Here.
 
