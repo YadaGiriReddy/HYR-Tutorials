@@ -1,5 +1,9 @@
 package practicePrograms;
 
+/**
+ * @author Yadagiri Reddy
+ * This class is used for demonstrating switch statement in Java.
+ */
 public class DecisionMakingStatements2 {
 	public static void main(String[] args) {
 		int dayNumber = 2;
