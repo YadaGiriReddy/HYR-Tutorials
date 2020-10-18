@@ -2,6 +2,10 @@ package practicePrograms;
 
 import java.util.Scanner;
 
+/**
+ * @author Yadagiri Reddy
+ * This class is used for demonstrating Scanner class in Java.
+ */
 public class TakeInputFromUser {
 
 	public static void main(String[] args) {
