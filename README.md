@@ -65,7 +65,7 @@ You can find the GitHub link in the video description or you can directly browse
 9. [Getting user input data in Java using scanner class - Part 9](https://youtu.be/b9i-yId8GxI)
 10. [Operators in Java - Part 10](https://youtu.be/WR3oP3dI6l8)
 11. [Decision Making Statements (if and if-else) in Java - Part 11](https://youtu.be/DQjnttmFwHw)
-12. [Decision Making Statements(switch) in Java - Part 12 ](https://youtu.be/L9bdGbyMNpw)
+12. [Decision Making Statements(switch) in Java - Part 12](https://youtu.be/L9bdGbyMNpw)
 
 ***
 
