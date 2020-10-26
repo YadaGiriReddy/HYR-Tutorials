@@ -67,6 +67,7 @@ You can find the GitHub link in the video description or you can directly browse
 11. [Decision Making Statements (if and if-else) in Java - Part 11](https://youtu.be/DQjnttmFwHw)
 12. [Decision Making Statements (switch) in Java - Part 12](https://youtu.be/L9bdGbyMNpw)
 13. [Looping Statements (while and do-while) in Java - Part 13](https://youtu.be/HfBBFSpBKYM)
+14. [Arrays in Java - Part 14](https://youtu.be/p6xXuVoo8gI)
 
 ***
 
