@@ -69,6 +69,7 @@ You can find the GitHub link in the video description or you can directly browse
 13. [Looping Statements (while and do-while) in Java - Part 13](https://youtu.be/HfBBFSpBKYM)
 14. [Arrays in Java - Part 14](https://youtu.be/p6xXuVoo8gI)
 15. [Looping Statements (for and foreach) in Java - Part 15](https://youtu.be/HfBBFSpBKYM)
+16. [Methods in Java - Part 16](https://youtu.be/8Cie6S3Y2rQ)
 ***
 
 ### YouTube Channel Link: https://www.youtube.com/hyrtutorials
