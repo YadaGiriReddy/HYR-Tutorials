@@ -101,6 +101,8 @@ LinkedIn -https://www.linkedin.com/company/hyrtutorials/
 
 Twitter - https://twitter.com/Hyrtutorials
 
+Instagram - https://www.instagram.com/hyrtutorials/
+
 YouTube - https://www.youtube.com/hyrtutorials
 
 C#Corner - https://www.c-sharpcorner.com/members/yadagiri-reddy/articles
