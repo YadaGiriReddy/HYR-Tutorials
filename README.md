@@ -14,7 +14,7 @@ You can find the GitHub link in the video description or you can directly browse
 6. [Different Locators Available in Selenium WebDriver](https://youtu.be/ZukVi_Qbm58)
 7. [Navigation Methods in Selenium WebDriver](https://youtu.be/wlu6pr_QPXQ)
 8. [Handling of Basic HTML Controls using Selenium WebDriver](https://youtu.be/Nyx955Dl058)
-9. [Handling of HTML Dropdown Using Selenium WebDriver](https://youtu.be/WRLZASByeiE)
+9. [Handling of HTML Dropdown using Selenium WebDriver](https://youtu.be/WRLZASByeiE)
 10. [How to handle Alerts in Selenium WebDriver](https://youtu.be/Ogo_t1c-TN4)
 11. [How to handle Multiple Windows in Selenium WebDriver](https://youtu.be/InTZhbAWCrU)
 12. [How to Handle Frames in Selenium WebDriver](https://youtu.be/INdpVD26sDI)
@@ -22,6 +22,7 @@ You can find the GitHub link in the video description or you can directly browse
 14. [Capture Screenshots using Selenium WebDriver](https://youtu.be/Ld9qJ4psQmI)
 15. [PageLoadTimeOut in Selenium WebDriver](https://youtu.be/PZXw8GlV5-o)
 16. [Implicit Wait Timeout in Selenium WebDriver](https://youtu.be/OOMer-N5WY4)
+17. [Handling of Bootstrap Dropdowns using Selenium WebDriver](https://youtu.be/jBVtlGTOWu0)
 
 ### XPath in Selenium WebDriver
 1. [What is XPath? Types of XPath? How to write XPath?](https://youtu.be/Em2PfKQ26Zw)
