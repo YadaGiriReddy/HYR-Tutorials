@@ -54,6 +54,7 @@ You can find the GitHub link in the video description or you can directly browse
 3. [How to Find Broken Links using Selenium WebDriver?](https://youtu.be/3liZaog-xXM)
 4. [How to Find Broken Images using Selenium WebDriver?](https://youtu.be/6NXZQYs-Eig)
 5. [What is the difference between findElement and findElements in #Selenium WebDriver?](https://youtu.be/NInJVd6aBKM)
+6. [What is the difference between driver.close() and driver.quit() in Selenium WebDriver?](https://youtu.be/-2h8wAgzvHo)
 
 ### Java Programming
 1. [Introduction to Java - Part 1](https://youtu.be/fPxY4hujnq4)
