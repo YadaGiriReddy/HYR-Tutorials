@@ -24,6 +24,7 @@ You can find the GitHub link in the video description or you can directly browse
 16. [Implicit Wait Timeout in Selenium WebDriver](https://youtu.be/OOMer-N5WY4)
 17. [Handling of Bootstrap Dropdowns using Selenium WebDriver](https://youtu.be/jBVtlGTOWu0)
 18. [How to handle Permission Pop-ups using Selenium WebDriver?](https://youtu.be/deKXbbIHD4w)
+19. [How to download files in Chrome, Firefox & Edge browsers using Selenium WebDriver?](https://youtu.be/15-ayP0sukA)
 
 ### XPath in Selenium WebDriver
 1. [What is XPath? Types of XPath? How to write XPath?](https://youtu.be/Em2PfKQ26Zw)
