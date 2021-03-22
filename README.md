@@ -25,6 +25,7 @@ You can find the GitHub link in the video description or you can directly browse
 17. [Handling of Bootstrap Dropdowns using Selenium WebDriver](https://youtu.be/jBVtlGTOWu0)
 18. [How to handle Permission Pop-ups using Selenium WebDriver?](https://youtu.be/deKXbbIHD4w)
 19. [How to download files in Chrome, Firefox & Edge browsers using Selenium WebDriver?](https://youtu.be/15-ayP0sukA)
+20. [Remove "Chrome is being controlled by automated test software" message using Selenium WebDriver](https://youtu.be/KAbllhPomwE)
 
 ### XPath in Selenium WebDriver
 1. [What is XPath? Types of XPath? How to write XPath?](https://youtu.be/Em2PfKQ26Zw)
@@ -78,6 +79,7 @@ You can find the GitHub link in the video description or you can directly browse
 16. [Methods in Java - Part 16](https://youtu.be/8Cie6S3Y2rQ)
 17. [Class and Object in Java - Part 17](https://youtu.be/WCfRhPd5Wzo)
 18. [Constructors in Java - Part 18](https://youtu.be/WGYgM7dlet4)
+19. [This keyword in Java - Part 19]()
 ***
 
 ### YouTube Channel Link: https://www.youtube.com/hyrtutorials
