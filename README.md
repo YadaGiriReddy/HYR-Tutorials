@@ -44,6 +44,9 @@ You can find the GitHub link in the video description or you can directly browse
 2. [How to Create Excel File using Apache POI](https://youtu.be/q-fREhjTmNk)
 3. [How to Read Excel File using Apache POI](https://youtu.be/JAyJSffgm7c)
 
+### Apache PDFBox (Java Library for manipulating PDF files)
+1. [How to read the data from PDF file using Apache PDFBox](https://youtu.be/9O_y9wI7P0A)
+
 ### JavascriptExecutor in Selenium WebDriver
 1. [What is JavascriptExecutor in Selenium WebDriver?](https://youtu.be/vwdNFoS9aQM)
 2. [Enter Text into a Textbox using JavascriptExecutor in Selenium WebDriver](https://youtu.be/AHUhFgWYtAA)
