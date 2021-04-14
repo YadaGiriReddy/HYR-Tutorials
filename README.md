@@ -82,7 +82,11 @@ You can find the GitHub link in the video description or you can directly browse
 16. [Methods in Java - Part 16](https://youtu.be/8Cie6S3Y2rQ)
 17. [Class and Object in Java - Part 17](https://youtu.be/WCfRhPd5Wzo)
 18. [Constructors in Java - Part 18](https://youtu.be/WGYgM7dlet4)
-19. [This keyword in Java - Part 19]()
+19. [This keyword in Java - Part 19](https://youtu.be/3gAjQkzzrcM)
+
+### Selenium Java in Telugu
+1. [Selenium Java in Telugu - Course Introduction - Part 1](https://youtu.be/7xkdEpaXvyE)
+2. [Introduction to Selenium WebDriver in Telugu - Part 2](https://youtu.be/jIwYsM1Huwo)
 ***
 
 ### YouTube Channel Link: https://www.youtube.com/hyrtutorials
@@ -99,6 +103,7 @@ You can find the GitHub link in the video description or you can directly browse
 | XPath | https://bit.ly/2RlLdkw |
 | Javascript Executor | https://bit.ly/2FhNXwS |
 | Apache POI | https://bit.ly/2RrngrH |
+| Selenium Java in Telugu | https://bit.ly/3ab697k |
 | Maven | https://bit.ly/2DYfYZE |
 | How to fix Eclipse Errors |https://bit.ly/3ipvNYf |
 
