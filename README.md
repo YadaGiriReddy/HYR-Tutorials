@@ -85,9 +85,10 @@ You can find the GitHub link in the video description or you can directly browse
 19. [This keyword in Java - Part 19](https://youtu.be/3gAjQkzzrcM)
 
 ### Selenium Java in Telugu
-1. [Selenium Java in Telugu - Course Introduction - Part 0](https://youtu.be/7xkdEpaXvyE)
-2. [Introduction to Selenium WebDriver in Telugu - Part 1](https://youtu.be/jIwYsM1Huwo)
-3. [Tools & Software's required for working with Selenium WebDriver in Telugu - Part 2](https://youtu.be/OWlqI8UVaus)
+1. [Selenium Java in Telugu - Course Introduction - Part 0 | తెలుగు |](https://youtu.be/7xkdEpaXvyE)
+2. [Introduction to Selenium WebDriver - Part 1 | తెలుగు |](https://youtu.be/jIwYsM1Huwo)
+3. [Tools & Software's required for working with Selenium WebDriver - Part 2 | తెలుగు |](https://youtu.be/OWlqI8UVaus)
+4. [Tools & Software's required for working with Selenium WebDriver - Part 3 | తెలుగు |](https://youtu.be/OWlqI8UVaus)
 ***
 
 ### YouTube Channel Link: https://www.youtube.com/hyrtutorials
