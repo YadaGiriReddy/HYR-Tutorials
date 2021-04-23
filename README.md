@@ -87,8 +87,11 @@ You can find the GitHub link in the video description or you can directly browse
 ### Selenium Java in Telugu
 1. [Selenium Java in Telugu - Course Introduction - Part 0 | తెలుగు |](https://youtu.be/7xkdEpaXvyE)
 2. [Introduction to Selenium WebDriver - Part 1 | తెలుగు |](https://youtu.be/jIwYsM1Huwo)
-3. [Tools & Software's required for working with Selenium WebDriver - Part 2 | తెలుగు |](https://youtu.be/OWlqI8UVaus)
-4. [Tools & Software's required for working with Selenium WebDriver - Part 3 | తెలుగు |](https://youtu.be/OWlqI8UVaus)
+3. [Tools & Software required for working with Selenium WebDriver - Part 2 | తెలుగు |](https://youtu.be/OWlqI8UVaus)
+4. [Java Basics for working with Selenium WebDriver - Part 3 | తెలుగు |](https://youtu.be/0A4k9EbxG-o)
+5. [Download and Install Selenium WebDriver - Part 4 | తెలుగు |](https://youtu.be/otlk2fzR_T4)
+6. [Launch Chrome & Firefox Browsers using Selenium WebDriver - Part 5 | తెలుగు |](https://youtu.be/O_eupfuwRT0)
+
 ***
 
 ### YouTube Channel Link: https://www.youtube.com/hyrtutorials
