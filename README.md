@@ -91,6 +91,8 @@ You can find the GitHub link in the video description or you can directly browse
 4. [Java Basics for working with Selenium WebDriver - Part 3 | తెలుగు |](https://youtu.be/0A4k9EbxG-o)
 5. [Download and Install Selenium WebDriver - Part 4 | తెలుగు |](https://youtu.be/otlk2fzR_T4)
 6. [Launch Chrome & Firefox Browsers using Selenium WebDriver - Part 5 | తెలుగు |](https://youtu.be/O_eupfuwRT0)
+7. [Auto Download driver executables using WebDriverManager - Part 6 | తెలుగు |](https://youtu.be/c8KHV8Ospf4)
+8. [Different Locators available in Selenium WebDriver - Part 7 | తెలుగు |](https://youtu.be/31mPjP7VHTY)
 
 ***
 
