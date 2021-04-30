@@ -94,6 +94,7 @@ You can find the GitHub link in the video description or you can directly browse
 7. [Auto Download driver executables using WebDriverManager - Part 6 | తెలుగు |](https://youtu.be/c8KHV8Ospf4)
 8. [Different Locators available in Selenium WebDriver - Part 7 | తెలుగు |](https://youtu.be/31mPjP7VHTY)
 9. [How to handle TextBoxes in Selenium WebDriver - Part 8 | తెలుగు |](https://youtu.be/nZcqUKrsFMQ)
+10. [How to handle basic html controls in Selenium WebDriver - Part 9 | తెలుగు |](https://youtu.be/H-Agz7gOrdM)
 
 ***
 
