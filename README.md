@@ -100,6 +100,8 @@ You can find the GitHub link in the video description or you can directly browse
 13. [How to handle alerts in a web page using Selenium WebDriver - Part 12 | తెలుగు |](https://youtu.be/oL4jQjEEl5Q)
 14. [How to handle multiple windows or tabs using Selenium WebDriver - Part 13 | తెలుగు |](https://youtu.be/4QHaRw1EGDQ)
 15. [How to handle frames in a web page using Selenium WebDriver - Part 14 | తెలుగు |](https://youtu.be/cz91PPTspS8)
+16. [How to capture screenshots of a web page using Selenium WebDriver - Part 15 | తెలుగు |](https://youtu.be/DlhWLWzHPvw)
+17. [PageLoadTimeout in Selenium WebDriver - Part 16 | తెలుగు |](https://youtu.be/Pef_oV1amYQ)
 
 ***
 
