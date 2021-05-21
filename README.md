@@ -104,6 +104,7 @@ You can find the GitHub link in the video description or you can directly browse
 17. [PageLoadTimeout in Selenium WebDriver - Part 16 | తెలుగు |](https://youtu.be/Pef_oV1amYQ)
 18. [Implicit Wait Timeout in Selenium WebDriver - Part 17 | తెలుగు |](https://youtu.be/yGjWbrljR6s)
 19. [Explicit Wait in Selenium WebDriver - Part 18 | తెలుగు |](https://youtu.be/_fEHxdMb6V4)
+20. [How to maximize browser window in Selenium WebDriver - Part 19 | తెలుగు |](https://youtu.be/h1Mj-V_onP8)
 
 ***
 
