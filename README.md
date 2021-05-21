@@ -103,6 +103,7 @@ You can find the GitHub link in the video description or you can directly browse
 16. [How to capture screenshots of a web page using Selenium WebDriver - Part 15 | తెలుగు |](https://youtu.be/DlhWLWzHPvw)
 17. [PageLoadTimeout in Selenium WebDriver - Part 16 | తెలుగు |](https://youtu.be/Pef_oV1amYQ)
 18. [Implicit Wait Timeout in Selenium WebDriver - Part 17 | తెలుగు |](https://youtu.be/yGjWbrljR6s)
+19. [Explicit Wait in Selenium WebDriver - Part 18 | తెలుగు |](https://youtu.be/_fEHxdMb6V4)
 
 ***
 
