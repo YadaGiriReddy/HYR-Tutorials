@@ -106,6 +106,7 @@ You can find the GitHub link in the video description or you can directly browse
 19. [Explicit Wait in Selenium WebDriver - Part 18 | తెలుగు |](https://youtu.be/_fEHxdMb6V4)
 20. [How to maximize browser window in Selenium WebDriver - Part 19 | తెలుగు |](https://youtu.be/h1Mj-V_onP8)
 21. [How to get URL, Title, PageSource using Selenium WebDriver - Part 20 | తెలుగు |](https://youtu.be/NJd5i4rw3Rg)
+22. [How to get WebElement properties using Selenium WebDriver - Part 21 | తెలుగు |](https://youtu.be/8r_syGQqnLo)
 
 ***
 
