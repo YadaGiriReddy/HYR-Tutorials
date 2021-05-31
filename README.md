@@ -108,7 +108,7 @@ You can find the GitHub link in the video description or you can directly browse
 21. [How to get URL, Title, PageSource using Selenium WebDriver - Part 20 | తెలుగు |](https://youtu.be/NJd5i4rw3Rg)
 22. [How to get WebElement properties using Selenium WebDriver - Part 21 | తెలుగు |](https://youtu.be/8r_syGQqnLo)
 23. [XPath Full Course in తెలుగు - Part 22 | Selenium | తెలుగు |](https://youtu.be/f0oCvbuXmJI)
-
+24. [Perform Mouse Actions in Selenium WebDriver - Part 23 | తెలుగు |](https://youtu.be/wuEefkHhT5o)
 ***
 
 ### YouTube Channel Link: https://www.youtube.com/hyrtutorials
