@@ -109,6 +109,7 @@ You can find the GitHub link in the video description or you can directly browse
 22. [How to get WebElement properties using Selenium WebDriver - Part 21 | తెలుగు |](https://youtu.be/8r_syGQqnLo)
 23. [XPath Full Course in తెలుగు - Part 22 | Selenium | తెలుగు |](https://youtu.be/f0oCvbuXmJI)
 24. [Perform Mouse Actions in Selenium WebDriver - Part 23 | తెలుగు |](https://youtu.be/wuEefkHhT5o)
+25. [How to handle Calendars using Selenium WebDriver - Part 24 | తెలుగు |](https://youtu.be/rzCCVn_E7e4)
 ***
 
 ### YouTube Channel Link: https://www.youtube.com/hyrtutorials
