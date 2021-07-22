@@ -28,6 +28,9 @@ You can find the GitHub link in the video description or you can directly browse
 20. [Remove "Chrome is being controlled by automated test software" message using Selenium WebDriver](https://youtu.be/KAbllhPomwE)
 21. [How to handle Calendars using Selenium WebDriver | Selenium |](https://youtu.be/HqzlDEPdJ3w)
 
+### TestNG - Testing Framework
+1. [Introduction to TestNG - Part 1](https://youtu.be/LQ72KZAg0QE)
+2. [Installation of TestNG - Part 2](https://youtu.be/EIPHiYYMD0g)
 
 ### XPath in Selenium WebDriver
 1. [What is XPath? Types of XPath? How to write XPath?](https://youtu.be/Em2PfKQ26Zw)
@@ -124,6 +127,7 @@ You can find the GitHub link in the video description or you can directly browse
 | Windows Automation with FlaUI |https://bit.ly/33CG4dB |
 | Java for Absolute Beginners | https://bit.ly/3keRJGa |
 | Selenium with Java     | https://bit.ly/2FyKvxj |
+| TestNG - Testing Framework     | https://bit.ly/3wXyuXB |
 | Selenium Interview Questions | https://bit.ly/3matUB3 |
 | CSS Selectors | https://bit.ly/2Rn0IbD |
 | XPath | https://bit.ly/2RlLdkw |
