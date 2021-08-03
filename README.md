@@ -31,6 +31,9 @@ You can find the GitHub link in the video description or you can directly browse
 ### TestNG - Testing Framework
 1. [Introduction to TestNG - Part 1](https://youtu.be/LQ72KZAg0QE)
 2. [Installation of TestNG - Part 2](https://youtu.be/EIPHiYYMD0g)
+3. [Create and run your first TestNG test - Part 3](https://youtu.be/k_zFvArWWTs)
+4. [Basic structure of TestNG xml file - Part 4](https://youtu.be/iEOZ2FmTWe0)
+5. [Assertions in TestNG - Part 5](https://youtu.be/MccoImse-qg)
 
 ### XPath in Selenium WebDriver
 1. [What is XPath? Types of XPath? How to write XPath?](https://youtu.be/Em2PfKQ26Zw)
