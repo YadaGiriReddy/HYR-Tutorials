@@ -105,14 +105,14 @@ You can find the GitHub link in the video description or you can directly browse
 19. [This keyword in Java - Part 19](https://youtu.be/3gAjQkzzrcM)
 
 ### Selenium Java in Telugu
-1. [Selenium Java in Telugu - Course Introduction - Part 0 | తెలుగు |](https://youtu.be/7xkdEpaXvyE)
-2. [Introduction to Selenium WebDriver - Part 1 | తెలుగు |](https://youtu.be/jIwYsM1Huwo)
-3. [Tools & Software required for working with Selenium WebDriver - Part 2 | తెలుగు |](https://youtu.be/OWlqI8UVaus)
-4. [Java Basics for working with Selenium WebDriver - Part 3 | తెలుగు |](https://youtu.be/0A4k9EbxG-o)
-5. [Download and Install Selenium WebDriver - Part 4 | తెలుగు |](https://youtu.be/otlk2fzR_T4)
-6. [Launch Chrome & Firefox Browsers using Selenium WebDriver - Part 5 | తెలుగు |](https://youtu.be/O_eupfuwRT0)
-7. [Auto Download driver executables using WebDriverManager - Part 6 | తెలుగు |](https://youtu.be/c8KHV8Ospf4)
-8. [Different Locators available in Selenium WebDriver - Part 7 | తెలుగు |](https://youtu.be/31mPjP7VHTY)
+1. [Selenium Java in Telugu - Course Introduction - Part 0 | తెలుగు |](https://youtu.be/Jto7decWdpQ)
+2. [Introduction to Selenium WebDriver - Part 1 | తెలుగు |](https://youtu.be/ItHM9NhtVpE)
+3. [Tools & Software required for working with Selenium WebDriver - Part 2 | తెలుగు |](https://youtu.be/8YjPP3JMQ8w)
+4. [Java Basics for working with Selenium WebDriver - Part 3 | తెలుగు |](https://youtu.be/wgWv_0LB7AE)
+5. [Download and Install Selenium WebDriver - Part 4 | తెలుగు |](https://youtu.be/lFV9roUnTC4)
+6. [Launch Chrome & Firefox Browsers using Selenium WebDriver - Part 5 | తెలుగు |](https://youtu.be/RVaN0e3d9nM)
+7. [Auto Download driver executables using WebDriverManager - Part 6 | తెలుగు |](https://youtu.be/b_LWRht3qYA)
+8. [Different Locators available in Selenium WebDriver - Part 7 | తెలుగు |](https://youtu.be/aIh79kaJ4MI)
 9. [How to handle TextBoxes in Selenium WebDriver - Part 8 | తెలుగు |](https://youtu.be/nZcqUKrsFMQ)
 10. [How to handle basic html controls in Selenium WebDriver - Part 9 | తెలుగు |](https://youtu.be/H-Agz7gOrdM)
 11. [How to handle Dropdowns in Selenium WebDriver - Part 10 | తెలుగు |](https://youtu.be/jHwDhenftfE)
@@ -133,7 +133,9 @@ You can find the GitHub link in the video description or you can directly browse
 26. [JavascriptExecutor in Selenium WebDriver - Part 25 | తెలుగు |](https://youtu.be/-4NeNaPaXk8)
 ***
 
-### YouTube Channel Link: https://www.youtube.com/hyrtutorials
+### YouTube Channel Links: 
+#### H Y R Tutorials (English) - https://www.youtube.com/hyrtutorials
+#### H Y R Tutorials (Telugu) - https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw
 
 ## Checkout my YouTube Tutorial Playlists 👇
 
@@ -149,6 +151,7 @@ You can find the GitHub link in the video description or you can directly browse
 | Javascript Executor | https://bit.ly/2FhNXwS |
 | Apache POI | https://bit.ly/2RrngrH |
 | Selenium Java in Telugu | https://bit.ly/3ab697k |
+| Core Java + Selenium online classes in Telugu| https://bit.ly/30008YR |
 | Maven | https://bit.ly/2DYfYZE |
 | How to fix Eclipse Errors |https://bit.ly/3ipvNYf |
 
@@ -164,7 +167,11 @@ Twitter - https://twitter.com/Hyrtutorials
 
 Instagram - https://www.instagram.com/hyrtutorials/
 
-YouTube - https://www.youtube.com/hyrtutorials
+Telegram - https://xn--r1a.click/hyrtutorials
+
+YouTube (English) - https://www.youtube.com/hyrtutorials
+
+YouTube (Telugu) - https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw
 
 C#Corner - https://www.c-sharpcorner.com/members/yadagiri-reddy/articles
 
