@@ -46,6 +46,8 @@ You can find the GitHub link in the video description or you can directly browse
 15. [How to create the test group dependencies in TestNG - P15](https://youtu.be/_0kSbiOOnO4)
 16. [What is a Dataprovider and how to use it in TestNG - P16](https://youtu.be/Zi1U-8qvWSs)
 17. [Parameters of Test Method and Return types of Dataprovider - P17](https://youtu.be/90_Pv6ixtj0)
+18. [How to use the dataprovider partially in TestNG - P18](https://youtu.be/do0Bql_QVhg)
+19. [How to create the dataprovider in a separate class - P19](https://youtu.be/RZov5D58p2Q)
 
 ### XPath in Selenium WebDriver
 1. [What is XPath? Types of XPath? How to write XPath?](https://youtu.be/Em2PfKQ26Zw)
