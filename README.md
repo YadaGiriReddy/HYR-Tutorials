@@ -122,17 +122,17 @@ You can find the GitHub link in the video description or you can directly browse
 13. [Part 12 - How to handle alerts in a web page using Selenium WebDriver](https://youtu.be/QxlnLI2GGFQ)
 14. [Part 13 - How to handle multiple windows or tabs using Selenium WebDriver](https://youtu.be/HmlCk02iydE)
 15. [Part 14 - How to handle frames in a web page using Selenium WebDriver](https://youtu.be/fuc4I0tHVNo)
-16. [Part 15 - How to capture screenshots of a web page using Selenium WebDriver](https://youtu.be/DlhWLWzHPvw)
-17. [Part 16 - PageLoadTimeout in Selenium WebDriver](https://youtu.be/Pef_oV1amYQ)
-18. [Part 17 - Implicit Wait Timeout in Selenium WebDriver](https://youtu.be/yGjWbrljR6s)
-19. [Part 18 - Explicit Wait in Selenium WebDriver](https://youtu.be/_fEHxdMb6V4)
-20. [Part 19 - How to maximize browser window in Selenium WebDriver](https://youtu.be/h1Mj-V_onP8)
-21. [Part 20 - How to get URL, Title, PageSource using Selenium WebDriver](https://youtu.be/NJd5i4rw3Rg)
-22. [Part 21 - How to get WebElement properties using Selenium WebDriver](https://youtu.be/8r_syGQqnLo)
-23. [Part 22 - XPath Full Course in తెలుగు](https://youtu.be/f0oCvbuXmJI)
-24. [Part 23 - Perform Mouse Actions in Selenium WebDriver](https://youtu.be/wuEefkHhT5o)
-25. [Part 24 - How to handle Calendars using Selenium WebDriver](https://youtu.be/rzCCVn_E7e4)
-26. [Part 25 - JavascriptExecutor in Selenium WebDriver](https://youtu.be/-4NeNaPaXk8)
+16. [Part 15 - How to capture screenshots of a web page using Selenium WebDriver](https://youtu.be/TP4zFGgx-PI)
+17. [Part 16 - PageLoadTimeout in Selenium WebDriver](https://youtu.be/O2gBdimlDi0)
+18. [Part 17 - Implicit Wait Timeout in Selenium WebDriver](https://youtu.be/0Wziy-wwzmM)
+19. [Part 18 - Explicit Wait in Selenium WebDriver](https://youtu.be/Hn3hqlszoAs)
+20. [Part 19 - How to maximize browser window in Selenium WebDriver](https://youtu.be/POhpyNQeck8)
+21. [Part 20 - How to get URL, Title, PageSource using Selenium WebDriver](https://youtu.be/f8xoErVL7QU)
+22. [Part 21 - How to get WebElement properties using Selenium WebDriver](https://youtu.be/7WRrpNqmmcE)
+23. [Part 22 - XPath Full Course in తెలుగు](https://youtu.be/ilTFwMV3lHk)
+24. [Part 23 - Perform Mouse Actions in Selenium WebDriver](https://youtu.be/Sn-ObiJIE5E)
+25. [Part 24 - How to handle Calendars using Selenium WebDriver](https://youtu.be/nxdNPaKg7F8)
+26. [Part 25 - JavascriptExecutor in Selenium WebDriver](https://youtu.be/owCkCghqU-8)
 ***
 
 ### YouTube Channel Links: 
@@ -152,7 +152,7 @@ You can find the GitHub link in the video description or you can directly browse
 | XPath | https://bit.ly/2RlLdkw |
 | Javascript Executor | https://bit.ly/2FhNXwS |
 | Apache POI | https://bit.ly/2RrngrH |
-| Selenium Java in Telugu | https://bit.ly/3ab697k |
+| Selenium Java in Telugu | https://bit.ly/3tL7Z9S |
 | Core Java + Selenium online classes in Telugu| https://bit.ly/30008YR |
 | Maven | https://bit.ly/2DYfYZE |
 | How to fix Eclipse Errors |https://bit.ly/3ipvNYf |
