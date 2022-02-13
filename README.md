@@ -2,10 +2,102 @@
 
 This repository is created and will be used for uploading the programs which I created in my tutorial videos.
 
+Also it can be used to browse all the videos and playlists from single place.
+
 You can find the GitHub link in the video description or you can directly browse the content from Here.
 
-## Course Content
-### Selenium WebDriver
+***
+
+### YouTube Channel Links: 
+#### H Y R Tutorials (English) - https://www.youtube.com/hyrtutorials
+#### H Y R Tutorials (Telugu) - https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw <br /><br />
+
+🙏 Please Subscribe🔔 to start learning for FREE, Also help your friends in learning the best by suggesting these channels.
+
+Join my youtube channel to get access to perks:
+https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
+
+***
+
+## Checkout my YouTube Tutorial Playlists (English) 👇
+
+| Playlist Name  | Link   |
+| ------------- |-------------|
+| Windows Automation with FlaUI |https://bit.ly/33CG4dB |
+| Java for Absolute Beginners | https://bit.ly/3keRJGa |
+| Selenium with Java     | https://bit.ly/2FyKvxj |
+| TestNG - Testing Framework     | https://bit.ly/3wXyuXB |
+| CSS Selectors | https://bit.ly/2Rn0IbD |
+| XPath | https://bit.ly/2RlLdkw |
+| Javascript Executor | https://bit.ly/2FhNXwS |
+| Apache POI | https://bit.ly/2RrngrH |
+| Apache PDFBox | https://bit.ly/3BpH599 |
+| Selenium Interview Questions | https://bit.ly/3matUB3 |
+| Maven | https://bit.ly/2DYfYZE |
+| How to fix Eclipse Errors |https://bit.ly/3ipvNYf |
+
+***
+
+## Checkout my YouTube Tutorial Playlists (Telugu) 👇
+
+| Playlist Name  | Link   |
+| ------------- |-------------|
+| Core Java in Telugu | https://bit.ly/3KMlbBk |
+| Selenium with Java in Telugu | https://bit.ly/3tL7Z9S |
+| Core Java + Selenium online classes in Telugu| https://bit.ly/30008YR |
+
+***
+## Course Content - English
+<details>
+<summary>Windows Automation with FlaUI</summary>
+
+1. [Basics of Windows Automation](https://youtu.be/tb1BgILHXCY)
+2. [Tools available for Windows Automation](https://youtu.be/qZKGFNv6kLA)
+3. [What is FlaUI? Libraries provided by FlaUI?](https://youtu.be/qhPSfkdNJ04)
+4. [Downloading and Installation of Visual Studio](https://youtu.be/jmrxsReIJwc)
+5. [Project creation in Visual Studio](https://youtu.be/qPhfXR8vDME)
+6. [Installation of FlaUI | Windows Automation Tool](https://youtu.be/86wfAnfgqGg)
+7. [GUI Inspecting Tools for Windows Applications](https://youtu.be/2rE9dsTXUQE)
+8. [Installation of Accessibility Tool - FlaUInspect](https://youtu.be/VYmxWXCGGB0)
+9. [Working with Accessibility Tool - FlaUInspect](https://youtu.be/790e_YlV16A)
+10. [Launching Windows Application using FlaUI](https://youtu.be/b7Qjsbl1jqE)
+11. [Handling Different Types of Controls with FlaUI](https://youtu.be/nCEjzeHmEvk)
+12. [Element finding mechanisms in FlaUI](https://youtu.be/7OwF3oXhw14)
+13. [Finding Control with Multiple conditions in FlaUI](https://youtu.be/jANcYTmaSNc)
+14. [Handling of menu and context menu with FlaUI](https://youtu.be/Ru-M6Tb2Jvw)
+15. [Perform Mouse actions using FlaUI](https://youtu.be/eLeVOthqdOo)
+16. [Perform Keyboard actions using FlaUI](https://youtu.be/IADVtmY3JVk)
+17. [Capture Screenshots using FlaUI](https://youtu.be/7vCZh9VZLvg)
+18. [Accessing Standard UIA Properties using FlaUI](https://youtu.be/EOKPiLykNVE)
+</details>
+
+<details>
+<summary>Java for Absolute Beginners</summary>
+
+1. [Part 1 - Introduction to Java](https://youtu.be/fPxY4hujnq4)
+2. [Part 2 - How to Download & Install Java 8 on Windows 10](https://youtu.be/KG0aZOQHHhg)
+3. [Part 3 - How to Download & Install Java 11 on Windows 10](https://youtu.be/BP7PgSofmzg)
+4. [Part 4 - How to Download and Install Eclipse on Windows 10](https://youtu.be/Mm7JEgWlDsY)
+5. [Part 5 - Write your First Java Program with Eclipse IDE](https://youtu.be/DDiVOF0EqGA)
+6. [Part 6 - Execute Java Program from Command Prompt](https://youtu.be/mUELIhr5mks)
+7. [Part 7 - Variables in Java](https://youtu.be/iM7uec02OlA)
+8. [Part 8 - DataTypes in Java](https://youtu.be/L_SUrVJoQHA)
+9. [Part 9 - Getting user input data in Java using scanner class](https://youtu.be/b9i-yId8GxI)
+10. [Part 10 - Operators in Java](https://youtu.be/WR3oP3dI6l8)
+11. [Part 11 - Decision Making Statements (if and if-else) in Java](https://youtu.be/DQjnttmFwHw)
+12. [Part 12 - Decision Making Statements (switch) in Java](https://youtu.be/L9bdGbyMNpw)
+13. [Part 13 - Looping Statements (while and do-while) in Java](https://youtu.be/HfBBFSpBKYM)
+14. [Part 14 - Arrays in Java](https://youtu.be/p6xXuVoo8gI)
+15. [Part 15 - Looping Statements (for and foreach) in Java](https://youtu.be/AWdXsNB4TfI)
+16. [Part 16 - Methods in Java](https://youtu.be/8Cie6S3Y2rQ)
+17. [Part 17 - Class and Object in Java](https://youtu.be/WCfRhPd5Wzo)
+18. [Part 18 - Constructors in Java](https://youtu.be/WGYgM7dlet4)
+19. [Part 19 - This keyword in Java](https://youtu.be/3gAjQkzzrcM)
+</details>
+
+<details>
+<summary>Selenium WebDriver with Java</summary>
+
 1. [Introduction to Selenium](https://youtu.be/nE3JJQ5zALE)
 2. [Downloading and Setting up Selenium WebDriver](https://youtu.be/BbQyHKcdbD8)
 3. [Launch Chrome & Firefox Browsers using Selenium WebDriver](https://youtu.be/RgFREgOgSlE)
@@ -27,8 +119,11 @@ You can find the GitHub link in the video description or you can directly browse
 19. [How to download files in Chrome, Firefox & Edge browsers using Selenium WebDriver?](https://youtu.be/15-ayP0sukA)
 20. [Remove "Chrome is being controlled by automated test software" message using Selenium WebDriver](https://youtu.be/KAbllhPomwE)
 21. [How to handle Calendars using Selenium WebDriver | Selenium |](https://youtu.be/HqzlDEPdJ3w)
+</details>
 
-### TestNG - Testing Framework
+<details>
+<summary>TestNG - Testing Framework</summary>
+
 1. [Part 1 - Introduction to TestNG](https://youtu.be/LQ72KZAg0QE)
 2. [Part 2 - Installation of TestNG](https://youtu.be/EIPHiYYMD0g)
 3. [Part 3 - Create and run your first TestNG test](https://youtu.be/k_zFvArWWTs)
@@ -48,35 +143,60 @@ You can find the GitHub link in the video description or you can directly browse
 17. [Part 17 - Parameters of Test Method and Return types of Dataprovider](https://youtu.be/90_Pv6ixtj0)
 18. [Part 18 - How to use the dataprovider partially in TestNG](https://youtu.be/do0Bql_QVhg)
 19. [Part 19 - How to create the dataprovider in a separate class](https://youtu.be/RZov5D58p2Q)
+20. [Part 20 - Integration of Excel with Dataprovider](https://youtu.be/t8zlxZ1CwKw)
+21. [Part 21 - Parallel execution with DataProvider in TestNG](https://youtu.be/T6XCjr98bA8)
+22. [Part 22 - How to use timeout & expectedExceptions attributes in TestNG](https://youtu.be/ZU6qdmW0SmY)
+23. [Part 23 - Execute your tests in parallel using TestNG](https://youtu.be/lMzdCHom2vs)
+24. [Part 24 - How to use invocationCount, invocationTimeOut & threadPoolSize in TestNG](https://youtu.be/qIENXnWJLpI)
+25. [Part 25 - TestNG Listeners](https://youtu.be/neG1AJCH_3Q)
+26. [Part 26 - Capture screenshots for only failed tests in TestNG](https://youtu.be/S5wJYCHrUQ4)
+</details>
 
-### XPath in Selenium WebDriver
+<details>
+<summary>XPath in Selenium WebDriver</summary>
+
 1. [What is XPath? Types of XPath? How to write XPath?](https://youtu.be/Em2PfKQ26Zw)
 2. [XPath Operators & XPath Functions - and, or, text, contains, starts-with and normalize-space](https://youtu.be/OTStvDR_jF4)
 3. [XPath Axes - ancestor, parent, following-sibling, preceding-sibling, child and descendant](https://youtu.be/aAWvwGFkySI)
+</details>
 
-### CSS Selectors in Selenium WebDriver
+<details>
+<summary>CSS Selectors in Selenium WebDriver</summary>
+
 1. [Part 1 - What is CSS Selector & Types of CSS Selector](https://youtu.be/DlsmZ1hdgPI)
 2. [Part 2 - CSS Simple Selectors](https://youtu.be/JMlXasD2UhU)
 3. [Part 3 - CSS Attribute Selectors](https://youtu.be/pZPNJ41ePmE)
 4. [Part 4 - CSS Combinator selectors](https://youtu.be/vQvs1WSQwI0)
 5. [Part 5 - Conditions and Pseudo Classes in CSS Selectors](https://youtu.be/dwB9jkFaiuU)
+</details>
 
-### Apache POI (Java Library for reading and writing Microsoft Office files)
+<details>
+<summary>Apache POI (Java Library for reading and writing Microsoft Office files)</summary>
+
 1. [Part 1 - Introduction to Apache POI](https://youtu.be/mHHflDVLD0o)
 2. [Part 2 - How to Create Excel File using Apache POI](https://youtu.be/q-fREhjTmNk)
 3. [Part 3 - How to Read Excel File using Apache POI](https://youtu.be/JAyJSffgm7c)
+</details>
 
-### Apache PDFBox (Java Library for manipulating PDF files)
+<details>
+<summary>Apache PDFBox (Java Library for manipulating PDF files)</summary>
+
 1. [How to read the data from PDF file using Apache PDFBox](https://youtu.be/9O_y9wI7P0A)
+</details>
 
-### JavascriptExecutor in Selenium WebDriver
+<details>
+<summary>JavascriptExecutor in Selenium WebDriver</summary>
+
 1. [What is JavascriptExecutor in Selenium WebDriver?](https://youtu.be/vwdNFoS9aQM)
 2. [Enter Text into a Textbox using JavascriptExecutor in Selenium WebDriver](https://youtu.be/AHUhFgWYtAA)
 3. [Perform Click Operation using JavascriptExecutor in Selenium WebDriver](https://youtu.be/sXCTNmOmB_s)
 4. [Perform Scroll Operations using Javascript Executor in Selenium WebDriver](https://youtu.be/3c2rE51MzWI)
 5. [Highlight Web Elements using JavascriptExecutor in Selenium WebDriver](https://youtu.be/mTkeNj5tglw)
+</details>
 
-### Selenium WebDriver Interview Questions
+<details>
+<summary>Selenium WebDriver Interview Questions</summary>
+
 1. [What is the meaning of WebDriver driver = new ChromeDriver() in Selenium WebDriver?](https://youtu.be/ZJI2sdTLVEg)
 2. [Why do we need to typecast the WebDriver Instance to use TakeScreenshot or JavascriptExecutor?](https://youtu.be/I2Dc6TOzPVQ)
 3. [How to Find Broken Links using Selenium WebDriver?](https://youtu.be/3liZaog-xXM)
@@ -84,29 +204,40 @@ You can find the GitHub link in the video description or you can directly browse
 5. [What is the difference between findElement and findElements in #Selenium WebDriver?](https://youtu.be/NInJVd6aBKM)
 6. [What is the difference between driver.close() and driver.quit() in Selenium WebDriver?](https://youtu.be/-2h8wAgzvHo)
 7. [What is the difference between driver.get() and driver.navigate().to() in Selenium WebDriver?](https://youtu.be/VU1yut6JEHs)
+</details>
 
-### Java Programming
-1. [Part 1 - Introduction to Java](https://youtu.be/fPxY4hujnq4)
-2. [Part 2 - How to Download & Install Java 8 on Windows 10](https://youtu.be/KG0aZOQHHhg)
-3. [Part 3 - How to Download & Install Java 11 on Windows 10](https://youtu.be/BP7PgSofmzg)
-4. [Part 4 - How to Download and Install Eclipse on Windows 10](https://youtu.be/Mm7JEgWlDsY)
-5. [Part 5 - Write your First Java Program with Eclipse IDE](https://youtu.be/DDiVOF0EqGA)
-6. [Part 6 - Execute Java Program from Command Prompt](https://youtu.be/mUELIhr5mks)
-7. [Part 7 - Variables in Java](https://youtu.be/iM7uec02OlA)
-8. [Part 8 - DataTypes in Java](https://youtu.be/L_SUrVJoQHA)
-9. [Part 9 - Getting user input data in Java using scanner class](https://youtu.be/b9i-yId8GxI)
-10. [Part 10 - Operators in Java](https://youtu.be/WR3oP3dI6l8)
-11. [Part 11 - Decision Making Statements (if and if-else) in Java](https://youtu.be/DQjnttmFwHw)
-12. [Part 12 - Decision Making Statements (switch) in Java](https://youtu.be/L9bdGbyMNpw)
-13. [Part 13 - Looping Statements (while and do-while) in Java](https://youtu.be/HfBBFSpBKYM)
-14. [Part 14 - Arrays in Java](https://youtu.be/p6xXuVoo8gI)
-15. [Part 15 - Looping Statements (for and foreach) in Java](https://youtu.be/AWdXsNB4TfI)
-16. [Part 16 - Methods in Java](https://youtu.be/8Cie6S3Y2rQ)
-17. [Part 17 - Class and Object in Java](https://youtu.be/WCfRhPd5Wzo)
-18. [Part 18 - Constructors in Java](https://youtu.be/WGYgM7dlet4)
-19. [Part 19 - This keyword in Java](https://youtu.be/3gAjQkzzrcM)
+<details>
+<summary>Maven</summary>
 
-### Selenium Java in Telugu
+1. [Install Maven on Windows](https://youtu.be/-6Gq_lQbR_c)
+</details>
+
+<details>
+<summary>How to fix Eclipse Errors</summary>
+
+1. [How to fix error "A JRE or JDK must be available in order to run Eclipse" ](https://youtu.be/duE6IfQfzKY)
+2. [How to fix "Failed to load the JNI shared library" error](https://youtu.be/4Y9mjyxO8EY)
+</details>
+
+***
+
+## Course Content - Telugu
+<details>
+<summary>Core Java in Telugu</summary>
+
+1. [P0 - Java Course Introduction](https://youtu.be/_3GP0qyTbsI)
+2. [P1 - Introduction to Programming](https://youtu.be/6vbgKKSYdBA)
+3. [P2 - Introduction to Java](https://youtu.be/ILFg074rlNY)
+4. [P3 - Downloading and Installation of Java version 8](https://youtu.be/_0sfaKYTlmA)
+5. [P4 - Downloading and Installation of Java version 11 and 17 ](https://youtu.be/Nm6Q-91j6kY)
+6. [P5 - Which version of java should be installed in our machine](https://youtu.be/HddwqIDGkg8)
+7. [P6 - Tools required for writing and executing Java programs](https://youtu.be/C8ofg23qLNA)
+8. [P7 - Writing and Executing our first java program using Notepad and Command Prompt](https://youtu.be/RXqpwLpSdkc)
+</details>
+
+<details>
+<summary>Selenium Java in Telugu</summary>
+
 1. [Part 0 - Selenium Java in Telugu - Course Introduction](https://youtu.be/Jto7decWdpQ)
 2. [Part 1 - Introduction to Selenium WebDriver](https://youtu.be/ItHM9NhtVpE)
 3. [Part 2 - Tools & Software required for working with Selenium WebDriver](https://youtu.be/8YjPP3JMQ8w)
@@ -133,31 +264,66 @@ You can find the GitHub link in the video description or you can directly browse
 24. [Part 23 - Perform Mouse Actions in Selenium WebDriver](https://youtu.be/Sn-ObiJIE5E)
 25. [Part 24 - How to handle Calendars using Selenium WebDriver](https://youtu.be/nxdNPaKg7F8)
 26. [Part 25 - JavascriptExecutor in Selenium WebDriver](https://youtu.be/owCkCghqU-8)
+</details>
+
+<details>
+<summary>Core Java + Selenium online classes in Telugu</summary>
+
+1. [Day 1 - Basics of Java ](https://youtu.be/wqDciGAYjtY)
+2. [Day 2 - Downloading and Installation of Java 8 version](https://youtu.be/zThaAPQn8BM)
+3. [Day 3 - Downloading and Installation of Java 11 and java 17 versions](https://youtu.be/z5Lch1GBqz4)
+4. [Day 4 - Downloading and installation of Eclipse](https://youtu.be/FN-sdTMbRpA)
+5. [Day 5 - Writing and executing our first java program (Notepad & Eclipse) ](https://youtu.be/i8J1gkeScgI)
+6. [Day 6 - Datatypes in Java](https://youtu.be/FPXKMsxmxv4)
+7. [Day 7 - Variables in Java](https://youtu.be/DXgGYLelCac)
+8. [Day 8 - Operators in Java](https://youtu.be/eFjyJyy8vng)
+9. [Day 9 - Decision making statements in Java - Part 1](https://youtu.be/T2yFKxXZd4c)
+10. [Day 10 - Decision making statements in Java - Part 2](https://youtu.be/3bhQdAC_afE)
+11. [Day 11 - Looping statements in Java - Part 1](https://youtu.be/l6NSM4Rx63c)
+12. [Day 12 - Arrays in Java & Looping statements in Java - Part 2](https://youtu.be/HtHJo31NIBw)
+13. [Day 13 - Foreach loop in Java](https://youtu.be/C1wCojpSTMk)
+14. [Day 14 - Class, Object, Constructors and Methods in Java](https://youtu.be/qWyP9NNDeZc)
+15. [Day 15 - String and its Methods in Java](https://youtu.be/NXAyoDwx5iY)
+16. [Day 16 - Static and Non-Static in Java ](https://youtu.be/oJ2LY86_T7A)
+17. [Day 17 - Object oriented programming principles in Java](https://youtu.be/hJgHM6e47Ic)
+18. [Day 18 - OOPs - Part 2 & Handling of Properties File in Java](https://youtu.be/qFY04DHA99c)
+19. [Day 19 - Handling of Text File in Java - Part 1](https://youtu.be/vWu77GPcAIE)
+20. [Day 20 - Handling of Text File in Java - Part 2](https://youtu.be/WJ3sydy_9-I)
+21. [Day 21 - Exception handling in Java - Part 1](https://youtu.be/hoLyvRZq1N8)
+22. [Day 22 - Exception handling in Java - Part 2](https://youtu.be/aUqdZJWnNXU)
+23. [Day 23 - Collections overview - Part 1](https://youtu.be/lKWf8ghB8EA)
+24. [Day 24 - Arraylist in Java](https://youtu.be/gjSONTGpOhA)
+25. [Day 25 - Linkedlist & Vector in Java](https://youtu.be/UWuhoZHC9tU)
+26. [Day 26 - Hashmap in Java](https://youtu.be/wWhvc0MYYY0)
+27. [Day 27 - Accessibility Modifiers, Working with jar, Set in Java](https://youtu.be/GCpmsFqUkQw)
+28. [Day 28 - Introduction & Installation of Selenium ](https://youtu.be/fUkoZHLa1Xg)
+29. [Day 29 - Maven Basics & Installation of Selenium in Maven Project](https://youtu.be/4y-PDZaVXNY)
+30. [Day 30 - Launch  browser using Selenium WebDriver ](https://youtu.be/-F9yLlSs8RY)
+31. [Day 31 - Navigate to URL and close the browser in Selenium](https://youtu.be/-BWcANajKK4)
+32. [Day 32 - Understand the HTML DOM](https://youtu.be/OGqA6-CPCpE)
+33. [Day 33 - Get the Text from any WebElement](https://youtu.be/KZ9bii0PBZw)
+34. [Day 34 - XPath - Part 1](https://youtu.be/he_GP9Z8-Uw)
+35. [Day 35 - XPath Functions](https://youtu.be/NabcT7AMR4M)
+36. [Day 36 - XPath Axes](https://youtu.be/_ttSATamUWo)
+37. [Day 37 - Handle Radio Button,  Button, Check Box, Link in Selenium](https://youtu.be/rWPtGqksn5E)
+38. [Day 38 - Handle Dropdowns in Selenium](https://youtu.be/BXNzNK2YOTk)
+39. [Day 39 - WebDriverManager and Alerts](https://youtu.be/bopEagjCMas)
+40. [Day 40 - Handle frames in Selenium](https://youtu.be/qXvqmKQgxIw)
+41. [Day 41 - Handle multiple windows in Selenium ](https://youtu.be/yllyS0LZ__o)
+42. [Day 42 - Navigation & Timeouts in Selenium](https://youtu.be/_9cmFCzWPgI)
+43. [Day 43 - Waits in Selenium](https://youtu.be/S3RE_ODZzE0)
+44. [Day 44 - JavascriptExecutor in Selenium](https://youtu.be/4kHfCNxBSSY)
+45. [Day 45 - Capture screenshots in Selenium](https://youtu.be/Kv4HkLOooGY)
+46. [Day 46 - CSS Selectors in Selenium](https://youtu.be/_XyV2fsw8po)
+47. [Day 47 - Mouse & Keyboard actions in Selenium](https://youtu.be/6lbqeljLyeU)
+</details>
+
 ***
 
-### YouTube Channel Links: 
-#### H Y R Tutorials (English) - https://www.youtube.com/hyrtutorials
-#### H Y R Tutorials (Telugu) - https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw
-
-## Checkout my YouTube Tutorial Playlists 👇
-
-| Playlist Name  | Link   |
-| ------------- |-------------|
-| Windows Automation with FlaUI |https://bit.ly/33CG4dB |
-| Java for Absolute Beginners | https://bit.ly/3keRJGa |
-| Selenium with Java     | https://bit.ly/2FyKvxj |
-| TestNG - Testing Framework     | https://bit.ly/3wXyuXB |
-| Selenium Interview Questions | https://bit.ly/3matUB3 |
-| CSS Selectors | https://bit.ly/2Rn0IbD |
-| XPath | https://bit.ly/2RlLdkw |
-| Javascript Executor | https://bit.ly/2FhNXwS |
-| Apache POI | https://bit.ly/2RrngrH |
-| Selenium Java in Telugu | https://bit.ly/3tL7Z9S |
-| Core Java + Selenium online classes in Telugu| https://bit.ly/30008YR |
-| Maven | https://bit.ly/2DYfYZE |
-| How to fix Eclipse Errors |https://bit.ly/3ipvNYf |
-
 ## Connect Me/ Follow Me @ 👇
+Email - hyadagirireddytutorials@gmail.com
+
+Telegram - https://xn--r1a.click/hyrtutorials
 
 Website - https://www.hyrtutorials.com/
 
@@ -169,13 +335,11 @@ Twitter - https://twitter.com/Hyrtutorials
 
 Instagram - https://www.instagram.com/hyrtutorials/
 
-Telegram - https://xn--r1a.click/hyrtutorials
 
-YouTube (English) - https://www.youtube.com/hyrtutorials
+***
 
-YouTube (Telugu) - https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw
-
-C#Corner - https://www.c-sharpcorner.com/members/yadagiri-reddy/articles
+## Support Me 👇
+If you like my work, You can show your support and buy me a [coffee](https://www.buymeacoffee.com/yadagirireddy) ☕
 
 ***
 
