@@ -10,7 +10,7 @@ You can find the GitHub link in the video description or you can directly browse
 
 ### YouTube Channel Links: 
 #### H Y R Tutorials (English) - https://www.youtube.com/hyrtutorials
-#### H Y R Tutorials (Telugu) - https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw <br /><br />
+#### H Y R Tutorials (Telugu) - https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw <br />
 
 🙏 Please Subscribe🔔 to start learning for FREE, Also help your friends in learning the best by suggesting these channels.
 
