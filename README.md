@@ -321,20 +321,16 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 ***
 
 ## Connect Me/ Follow Me @ 👇
-Email - hyadagirireddytutorials@gmail.com
-
-Telegram - https://xn--r1a.click/hyrtutorials
-
-Website - https://www.hyrtutorials.com/
-
-Facebook - https://www.facebook.com/HYRTutorials/
-
-LinkedIn -https://www.linkedin.com/company/hyrtutorials/
-
-Twitter - https://twitter.com/Hyrtutorials
-
-Instagram - https://www.instagram.com/hyrtutorials/
-
+[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg">](mailto:hyadagirireddytutorials@gmail.com) &nbsp;
+[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/youtube-icon.svg">](https://www.youtube.com/c/HYRTutorials/) &nbsp;
+[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/youtube-icon.svg">](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw) &nbsp;
+[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/blogger-1.svg">](https://www.hyrtutorials.com/)
+[<img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/Hyrtutorials)
+[<img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/company/hyrtutorials/) &nbsp;
+[<img height="30" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />](https://www.facebook.com/HYRTutorials/)
+&nbsp;
+[<img height="30" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/hyrtutorials/) &nbsp;
+[<img height="30" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" />](https://t.me/hyrtutorials)
 
 ***
 
