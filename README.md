@@ -10,7 +10,7 @@ You can find the GitHub link in the video description or you can directly browse
 
 ### YouTube Channel Links: 
 #### H Y R Tutorials (English) - https://www.youtube.com/hyrtutorials
-#### H Y R Tutorials (Telugu) - https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw <br />
+#### H Y R Tutorials (Telugu) - https://www.youtube.com/c/hyrtutorialstelugu <br />
 
 🙏 Please Subscribe🔔 to start learning for FREE, Also help your friends in learning the best by suggesting these channels.
 
@@ -233,6 +233,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 6. [P5 - Which version of java should be installed in our machine](https://youtu.be/HddwqIDGkg8)
 7. [P6 - Tools required for writing and executing Java programs](https://youtu.be/C8ofg23qLNA)
 8. [P7 - Writing and Executing our first java program using Notepad and Command Prompt](https://youtu.be/RXqpwLpSdkc)
+9. [P8 - Download and Install the Eclipse IDE](https://youtu.be/c6XM9dfzSGI)
 </details>
 
 <details>
@@ -322,8 +323,6 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 
 ## Connect Me/ Follow Me @ 👇
 [<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg">](mailto:hyadagirireddytutorials@gmail.com) &nbsp;
-[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/youtube-icon.svg">](https://www.youtube.com/c/HYRTutorials/) &nbsp;
-[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/youtube-icon.svg">](https://www.youtube.com/channel/UC1Bbtdbpfert8leeKx2mssw) &nbsp;
 [<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/blogger-1.svg">](https://www.hyrtutorials.com/)
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/Hyrtutorials)
 [<img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/company/hyrtutorials/) &nbsp;
