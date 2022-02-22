@@ -236,7 +236,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 8. [P7 - Writing and Executing our first java program using Notepad and Command Prompt](https://youtu.be/RXqpwLpSdkc)
 9. [P8 - Download and Install the Eclipse IDE](https://youtu.be/c6XM9dfzSGI)
 10. [P9 - Getting started with Eclipse IDE](https://youtu.be/elR_H9uzQA4)
-11. [P10 - P10 - Writing & Executing our first java program using Eclipse IDE](https://youtu.be/ONb-Vx4EOSI)
+11. [P10 - Writing & Executing our first java program using Eclipse IDE](https://youtu.be/ONb-Vx4EOSI)
 12. [P11 - Packages in Java](https://youtu.be/GfOS3G6vxo8)
 </details>
 
