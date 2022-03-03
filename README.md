@@ -226,18 +226,22 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 <details>
 <summary>Core Java in Telugu</summary>
 
-1. [P0 - Java Course Introduction](https://youtu.be/_3GP0qyTbsI)
-2. [P1 - Introduction to Programming](https://youtu.be/6vbgKKSYdBA)
-3. [P2 - Introduction to Java](https://youtu.be/ILFg074rlNY)
-4. [P3 - Downloading and Installation of Java version 8](https://youtu.be/_0sfaKYTlmA)
-5. [P4 - Downloading and Installation of Java version 11 and 17 ](https://youtu.be/Nm6Q-91j6kY)
-6. [P5 - Which version of java should be installed in our machine](https://youtu.be/HddwqIDGkg8)
-7. [P6 - Tools required for writing and executing Java programs](https://youtu.be/C8ofg23qLNA)
-8. [P7 - Writing and Executing our first java program using Notepad and Command Prompt](https://youtu.be/RXqpwLpSdkc)
-9. [P8 - Download and Install the Eclipse IDE](https://youtu.be/c6XM9dfzSGI)
-10. [P9 - Getting started with Eclipse IDE](https://youtu.be/elR_H9uzQA4)
-11. [P10 - Writing & Executing our first java program using Eclipse IDE](https://youtu.be/ONb-Vx4EOSI)
-12. [P11 - Packages in Java](https://youtu.be/GfOS3G6vxo8)
+0. [P0 - Java Course Introduction](https://youtu.be/_3GP0qyTbsI)
+1. [P1 - Introduction to Programming](https://youtu.be/6vbgKKSYdBA)
+2. [P2 - Introduction to Java](https://youtu.be/ILFg074rlNY)
+3. [P3 - Downloading and Installation of Java version 8](https://youtu.be/_0sfaKYTlmA)
+4. [P4 - Downloading and Installation of Java version 11 and 17 ](https://youtu.be/Nm6Q-91j6kY)
+5. [P5 - Which version of java should be installed in our machine](https://youtu.be/HddwqIDGkg8)
+6. [P6 - Tools required for writing and executing Java programs](https://youtu.be/C8ofg23qLNA)
+7. [P7 - Writing and Executing our first java program using Notepad and Command Prompt](https://youtu.be/RXqpwLpSdkc)
+8. [P8 - Download and Install the Eclipse IDE](https://youtu.be/c6XM9dfzSGI)
+9. [P9 - Getting started with Eclipse IDE](https://youtu.be/elR_H9uzQA4)
+10. [P10 - Writing & Executing our first java program using Eclipse IDE](https://youtu.be/ONb-Vx4EOSI)
+11. [P11 - Packages in Java](https://youtu.be/GfOS3G6vxo8)
+12. [P12 - Class in Java](https://youtu.be/XBESTWKipko)
+13. [P13 - Data types in Java](https://youtu.be/RcnWMWptnDk)
+14. [P14 - Variables in Java](https://youtu.be/xINs7Qqlk-Y)
+15. [P15 - Methods in Java](https://youtu.be/E-jRVfgT2es)
 </details>
 
 <details>
@@ -321,6 +325,13 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 45. [Day 45 - Capture screenshots in Selenium](https://youtu.be/Kv4HkLOooGY)
 46. [Day 46 - CSS Selectors in Selenium](https://youtu.be/_XyV2fsw8po)
 47. [Day 47 - Mouse & Keyboard actions in Selenium](https://youtu.be/6lbqeljLyeU)
+</details>
+
+<details>
+<summary>Career guidance questions (FAQ) in Telugu</summary>
+1. [I’m from Non IT background, can I learn Software Testing?](https://youtu.be/CH303j_S5X8)
+2. [I have a career gap, does the software testing field suitable for me](https://youtu.be/WDsNpyv6aIQ)
+3. [Is the manual testing dying?](https://youtu.be/tU7hAZVpCJc)
 </details>
 
 ***
