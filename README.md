@@ -45,6 +45,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 | Core Java in Telugu | https://bit.ly/3KMlbBk |
 | Selenium with Java in Telugu | https://bit.ly/3tL7Z9S |
 | Core Java + Selenium online classes in Telugu| https://bit.ly/30008YR |
+| Career guidance questions in Telugu | https://bit.ly/3IIk9oA |
 
 ***
 ## Course Content - English
@@ -242,6 +243,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 13. [P13 - Data types in Java](https://youtu.be/RcnWMWptnDk)
 14. [P14 - Variables in Java](https://youtu.be/xINs7Qqlk-Y)
 15. [P15 - Methods in Java](https://youtu.be/E-jRVfgT2es)
+16. [P16 - Different type of print statements in Java](https://youtu.be/U4wsiDx74oE)
 </details>
 
 <details>
@@ -329,6 +331,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 
 <details>
 <summary>Career guidance questions (FAQ) in Telugu</summary>
+
 1. [I’m from Non IT background, can I learn Software Testing?](https://youtu.be/CH303j_S5X8)
 2. [I have a career gap, does the software testing field suitable for me](https://youtu.be/WDsNpyv6aIQ)
 3. [Is the manual testing dying?](https://youtu.be/tU7hAZVpCJc)
