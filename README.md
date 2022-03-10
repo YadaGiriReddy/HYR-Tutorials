@@ -159,6 +159,10 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 <summary>Extent Reports</summary>
 
 0. [P0 - Extent Reports Course Introduction](https://youtu.be/iyV-fDheyD0)
+1. [P1 - Overview of the extent reports](https://youtu.be/nPXJohqAbwU)
+2. [P2 - Download and Setup extent report libraries](https://youtu.be/YqCdblSNJUs)
+3. [P3 - Create a basic extent report](https://youtu.be/b1zJf52Ex14)
+4. [P4 - Understand the log levels in extent reports](https://youtu.be/ySFkim9jkeY)
 </details>
 <details>
 <summary>XPath in Selenium WebDriver</summary>
