@@ -257,6 +257,8 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 14. [P14 - Variables in Java](https://youtu.be/xINs7Qqlk-Y)
 15. [P15 - Methods in Java](https://youtu.be/E-jRVfgT2es)
 16. [P16 - Different type of print statements in Java](https://youtu.be/U4wsiDx74oE)
+17. [P17 - Operators in Java](https://youtu.be/GEmkzPZ9hx8)
+18. [P18 - How to get the user input from console](https://youtu.be/ebIej53TQ9Y)
 </details>
 
 <details>
