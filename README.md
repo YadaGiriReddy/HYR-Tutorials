@@ -163,6 +163,9 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 2. [P2 - Download and Setup extent report libraries](https://youtu.be/YqCdblSNJUs)
 3. [P3 - Create a basic extent report](https://youtu.be/b1zJf52Ex14)
 4. [P4 - Understand the log levels in extent reports](https://youtu.be/ySFkim9jkeY)
+5. [P5 - Log different types of information to the extent reports](https://youtu.be/79irFF_yJV8)
+6. [P6 - Attach screenshots to the extent reports](https://youtu.be/hXG6uV51OLw)
+7. [P7 - Different attributes available for a test in extent reports](https://youtu.be/HtnhNshkSy0)
 </details>
 <details>
 <summary>XPath in Selenium WebDriver</summary>
