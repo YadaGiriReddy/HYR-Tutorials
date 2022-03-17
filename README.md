@@ -166,6 +166,8 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 5. [P5 - Log different types of information to the extent reports](https://youtu.be/79irFF_yJV8)
 6. [P6 - Attach screenshots to the extent reports](https://youtu.be/hXG6uV51OLw)
 7. [P7 - Different attributes available for a test in extent reports](https://youtu.be/HtnhNshkSy0)
+8. [P8 - Extent report configuration using Java, JSON and XML](https://youtu.be/CS7_1bQrbU4)
+9. [P9 - Add the system/environment information to extent reports](https://youtu.be/zr6ESxf0W7A)
 </details>
 <details>
 <summary>XPath in Selenium WebDriver</summary>
@@ -259,6 +261,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 16. [P16 - Different type of print statements in Java](https://youtu.be/U4wsiDx74oE)
 17. [P17 - Operators in Java](https://youtu.be/GEmkzPZ9hx8)
 18. [P18 - How to get the user input from console](https://youtu.be/ebIej53TQ9Y)
+19. [P19 - Decision making statements (if & if else) in java](https://youtu.be/ACkYv4ZxlN8)
 </details>
 
 <details>
