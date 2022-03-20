@@ -354,6 +354,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 2. [I have a career gap, does the software testing field suitable for me](https://youtu.be/WDsNpyv6aIQ)
 3. [Is the manual testing dying?](https://youtu.be/tU7hAZVpCJc)
 4. [Is the manual testing knowledge required for automation testing](https://youtu.be/khEt-tNE3VQ)
+5. [Does tester get less salary than developer](https://youtu.be/-Xyldz4roMA)
 </details>
 
 ***
