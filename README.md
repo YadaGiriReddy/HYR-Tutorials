@@ -168,6 +168,9 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 7. [P7 - Different attributes available for a test in extent reports](https://youtu.be/HtnhNshkSy0)
 8. [P8 - Extent report configuration using Java, JSON and XML](https://youtu.be/CS7_1bQrbU4)
 9. [P9 - Add the system/environment information to extent reports](https://youtu.be/zr6ESxf0W7A)
+10. [P10 - Remove/Change the order of the tabs in Extent reports](https://youtu.be/3XON01EALIQ)
+11. [P11 - Generate the extent report for only failed or skipped or passed tests](https://youtu.be/S7wOFnYmZw0)
+12. [P12 - Shortcuts in extent reports](https://youtu.be/W9ekdTm65Jc)
 </details>
 <details>
 <summary>XPath in Selenium WebDriver</summary>
