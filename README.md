@@ -265,6 +265,8 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 17. [P17 - Operators in Java](https://youtu.be/GEmkzPZ9hx8)
 18. [P18 - How to get the user input from console](https://youtu.be/ebIej53TQ9Y)
 19. [P19 - Decision making statements (if & if else) in java](https://youtu.be/ACkYv4ZxlN8)
+20. [P20 - Decision making statements (switch) in java](https://youtu.be/KX2AnUKvgSE)
+21. [P21 - Constructors in Java](https://youtu.be/JSwJHLWGmq4)
 </details>
 
 <details>
