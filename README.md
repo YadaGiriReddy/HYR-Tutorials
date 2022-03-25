@@ -305,6 +305,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 24. [Part 23 - Perform Mouse Actions in Selenium WebDriver](https://youtu.be/Sn-ObiJIE5E)
 25. [Part 24 - How to handle Calendars using Selenium WebDriver](https://youtu.be/nxdNPaKg7F8)
 26. [Part 25 - JavascriptExecutor in Selenium WebDriver](https://youtu.be/owCkCghqU-8)
+27. [Bonus - Common issues faced while working with Selenium WebDriver](https://youtu.be/oIhRNl5q3OI)
 </details>
 
 <details>
