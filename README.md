@@ -274,6 +274,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 23. [P23 - Comments in Java](https://youtu.be/Tg_brasnNsU)
 24. [P24 - Looping statements (while & do-while) in Java](https://youtu.be/eP4My4udo7k)
 25. [P25 - Looping statements (for) in Java](https://youtu.be/NLpDOqGPT3U)
+26. [P26 - Arrays (Single Dimensional) in Java](https://youtu.be/RMpjvycSZW0)
 </details>
 
 <details>
