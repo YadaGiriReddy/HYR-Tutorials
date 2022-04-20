@@ -276,6 +276,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 25. [P25 - Looping statements (for) in Java](https://youtu.be/NLpDOqGPT3U)
 26. [P26 - Arrays (Single Dimensional) in Java](https://youtu.be/RMpjvycSZW0)
 27. [P27 - Arrays (Multi Dimensional) in Java](https://youtu.be/NY8nbEWq-UY)
+28. [P28 - Looping statements (foreach) in Java](https://youtu.be/NdItof24fyo)
 </details>
 
 <details>
