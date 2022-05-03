@@ -277,6 +277,8 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 26. [P26 - Arrays (Single Dimensional) in Java](https://youtu.be/RMpjvycSZW0)
 27. [P27 - Arrays (Multi Dimensional) in Java](https://youtu.be/NY8nbEWq-UY)
 28. [P28 - Looping statements (foreach) in Java](https://youtu.be/NdItof24fyo)
+29. [P29 - Strings in Java](https://youtu.be/7otVOAZm6R8)
+30. [P30 - Static and Non static in java](https://youtu.be/7otVOAZm6R8)
 </details>
 
 <details>
