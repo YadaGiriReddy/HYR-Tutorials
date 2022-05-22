@@ -279,6 +279,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 28. [P28 - Looping statements (foreach) in Java](https://youtu.be/NdItof24fyo)
 29. [P29 - Strings in Java](https://youtu.be/7otVOAZm6R8)
 30. [P30 - Static and Non static in java](https://youtu.be/7otVOAZm6R8)
+31. [P31 - Type Inference with local variables in Java](https://youtu.be/VcDIytUbTjs)
 </details>
 
 <details>
@@ -373,6 +374,15 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 3. [Is the manual testing dying?](https://youtu.be/tU7hAZVpCJc)
 4. [Is the manual testing knowledge required for automation testing](https://youtu.be/khEt-tNE3VQ)
 5. [Does tester get less salary than developer](https://youtu.be/-Xyldz4roMA)
+</details>
+
+<details>
+<summary>Core Java - Assignments</summary>
+
+1. [Core Java - Assignment #1](https://youtu.be/7lbkzIovNvo)
+2. [Core Java - Assignment #2](https://youtu.be/zsOLKk6J_g4)
+3. [Core Java - Assignment #3](https://youtu.be/QvNGZD0ZuCc)
+4. [Core Java - Assignment #4](https://youtu.be/W3HBAzJu0C4)
 </details>
 
 ***
