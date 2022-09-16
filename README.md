@@ -281,6 +281,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 29. [P29 - Strings in Java](https://youtu.be/7otVOAZm6R8)
 30. [P30 - Static and Non static in java](https://youtu.be/7otVOAZm6R8)
 31. [P31 - Type Inference with local variables in Java](https://youtu.be/VcDIytUbTjs)
+32. [P32 - OOPs in Java](https://youtu.be/2-NiRzi4jJU)
 </details>
 
 <details>
