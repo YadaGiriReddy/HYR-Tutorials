@@ -283,6 +283,8 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 31. [P31 - Type Inference with local variables in Java](https://youtu.be/VcDIytUbTjs)
 32. [P32 - OOPs in Java](https://youtu.be/2-NiRzi4jJU)
 33. [P33 - Inheritance in Java](https://youtu.be/3k-q-qk6MEU)
+34. [P34 - Access Modifiers in Java](https://youtu.be/dkUSSdUpmyY)
+35. [P35 - Encapsulation in Java](https://youtu.be/ubUS0Bqj_lg)
 </details>
 
 <details>
