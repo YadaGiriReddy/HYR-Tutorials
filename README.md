@@ -285,6 +285,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 33. [P33 - Inheritance in Java](https://youtu.be/3k-q-qk6MEU)
 34. [P34 - Access Modifiers in Java](https://youtu.be/dkUSSdUpmyY)
 35. [P35 - Encapsulation in Java](https://youtu.be/ubUS0Bqj_lg)
+36. [P36 - Interface in Java - 1](https://youtu.be/p19Q6pbczjc)
 </details>
 
 <details>
