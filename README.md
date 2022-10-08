@@ -286,6 +286,8 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 34. [P34 - Access Modifiers in Java](https://youtu.be/dkUSSdUpmyY)
 35. [P35 - Encapsulation in Java](https://youtu.be/ubUS0Bqj_lg)
 36. [P36 - Interface in Java - 1](https://youtu.be/p19Q6pbczjc)
+37. [P37 - Abstract Class in Java](https://youtu.be/WxNzvrpddqQ)
+38. [P38 - Abstraction in Java](https://youtu.be/sSR3czd45ZU)
 </details>
 
 <details>
