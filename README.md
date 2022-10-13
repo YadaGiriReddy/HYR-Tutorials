@@ -289,6 +289,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 37. [P37 - Abstract Class in Java](https://youtu.be/WxNzvrpddqQ)
 38. [P38 - Abstraction in Java](https://youtu.be/sSR3czd45ZU)
 39. [P39 - Polymorphism in Java](https://youtu.be/dDSHPBB2Z4I)
+40. [P40 - Exception handling in Java - 1](https://youtu.be/9oxcNSeU96k)
 </details>
 
 <details>
