@@ -290,6 +290,8 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 38. [P38 - Abstraction in Java](https://youtu.be/sSR3czd45ZU)
 39. [P39 - Polymorphism in Java](https://youtu.be/dDSHPBB2Z4I)
 40. [P40 - Exception handling in Java - 1](https://youtu.be/9oxcNSeU96k)
+41. [P41 - Files in Java](https://youtu.be/vQleKEabzu4)
+42. [P42 - Handle text files in Java](https://youtu.be/sP33Aixm9rE)
 </details>
 
 <details>
