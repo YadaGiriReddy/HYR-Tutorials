@@ -292,6 +292,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 40. [P40 - Exception handling in Java - 1](https://youtu.be/9oxcNSeU96k)
 41. [P41 - Files in Java](https://youtu.be/vQleKEabzu4)
 42. [P42 - Handle text files in Java](https://youtu.be/sP33Aixm9rE)
+43. [P43 - Exception handling in Java - 2](https://youtu.be/20tUEKYTLpI)
 </details>
 
 <details>
