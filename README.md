@@ -293,6 +293,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 41. [P41 - Files in Java](https://youtu.be/vQleKEabzu4)
 42. [P42 - Handle text files in Java](https://youtu.be/sP33Aixm9rE)
 43. [P43 - Exception handling in Java - 2](https://youtu.be/20tUEKYTLpI)
+44. [P44 - POJO Class & Java Bean Class in Java ](https://youtu.be/jgNxBZ9194Q)
 </details>
 
 <details>
