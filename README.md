@@ -294,6 +294,8 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 42. [P42 - Handle text files in Java](https://youtu.be/sP33Aixm9rE)
 43. [P43 - Exception handling in Java - 2](https://youtu.be/20tUEKYTLpI)
 44. [P44 - POJO Class & Java Bean Class in Java ](https://youtu.be/jgNxBZ9194Q)
+45. [P45 - Collections Overview in Java](https://youtu.be/Qg0vs4qBZcA)
+46. [P46 - ArrayList & Vector in Java](https://youtu.be/9f4fbj1YjY4)
 </details>
 
 <details>
