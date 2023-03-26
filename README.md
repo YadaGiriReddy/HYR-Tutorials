@@ -99,6 +99,42 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 </details>
 
 <details>
+<summary>Learn Java under 1 minute (Youtube Shorts)</summary>
+
+1. [What is Java?](https://youtube.com/shorts/Uht4_1d_eY0)
+2. [Advantages of Java](https://youtube.com/shorts/udRT3UCLaD8)
+3. [Download and Install Java](https://youtube.com/shorts/eKdS82tcsn8)
+4. [How to set path in Java](https://youtube.com/shorts/FeCWO2HLONg)
+5. [Download and install Eclipse IDE](https://youtube.com/shorts/6PJvxjnNYm0)
+6. [Write your first program in Eclipse IDE](https://youtube.com/shorts/fWrwxEgSblA)
+7. [Download and install IntelliJ IDEA IDE](https://youtube.com/shorts/gOT0TCgdAGE)
+8. []()
+9. [Write a java program to perform the arithmetic operations on two numbers](https://youtube.com/shorts/uUqQkoRMVYs)
+10. [Write a java program to perform Swapping of two numbers](https://youtube.com/shorts/AhBfmH0W_OE)
+11. [Write a java program to perform Swapping of two numbers without third variable](https://youtube.com/shorts/3on1icbumTw)
+12. [Write a java program to verify whether the given number is an even number or odd number](https://youtube.com/shorts/5MIzubva1eM)
+13. [Write a java program to verify whether the given year is a leap year or common year](https://youtube.com/shorts/1cHpsGm0QYM)
+14. [Write a java program to calculate the square of a given number](https://youtube.com/shorts/42dtRlDDT7o)
+15. [Write a java program to calculate the power of a given number](https://youtube.com/shorts/Q0CdKjzmAQI)
+16. [Write a java program to calculate the square root of a given number](https://youtube.com/shorts/_XT7G6lofKo)
+17. [Write a java program to convert the temperature from Fahrenheit to Celsius](https://youtube.com/shorts/aGh5In234qU)
+18. [Write a java program to verify whether the given number is a prime number or not](https://youtube.com/shorts/kWcWu0ZV5-c)
+19. [Write a java program to count the number of digits in a given number](https://youtube.com/shorts/9qCTlGQ5Z2g)
+20. [Write a java program to verify whether the given number is an Armstrong number or not](https://youtube.com/shorts/Ar4GZT-kka0)
+21. [Write a java program to print the reverse of a given number](https://youtube.com/shorts/LKIqSh3OsUg)
+22. [Write a java program to verify whether the given number is palindrome or not](https://youtube.com/shorts/fFZbbsmEFAk)
+23. [Write a java program to print numbers ranging from 20 to 50 using while loop](https://youtube.com/shorts/z0Oi1XThM40)
+24. [Write a java program to print the even numbers ranging from 50 to 100 using while loop](https://youtube.com/shorts/RkX2hLrxkcA)
+25. [Write a java program to print the prime numbers ranging from 10 to 60 using while loop](https://youtube.com/shorts/LbAx8PEajkM)
+26. [Write a java program to print the numbers ranging from 5 to 25 using for loop](https://youtube.com/shorts/Eey7UiEDqMs)
+27. [Write a java program to print the multiplication table of a given number](https://youtube.com/shorts/WcoiLQCpIuw)
+28. [Write a java program to print the sum of the even numbers ranging from 8 to 250 using for loop](https://youtube.com/shorts/kdW36rGtp4I)
+29. [Write a java program to print the factorial of a given number](https://youtube.com/shorts/euUqV76fnUw)
+30. [Write a java program to print the factors of a given number](https://youtube.com/shorts/ULB0wRldpMc)
+31. [Write a java program to print the English Alphabet in Upper case and Lower case](https://youtube.com/shorts/SrF9hpe9BeU)
+</details>
+
+<details>
 <summary>Selenium WebDriver with Java</summary>
 
 1. [Introduction to Selenium](https://youtu.be/nE3JJQ5zALE)
@@ -296,6 +332,10 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 44. [P44 - POJO Class & Java Bean Class in Java ](https://youtu.be/jgNxBZ9194Q)
 45. [P45 - Collections Overview in Java](https://youtu.be/Qg0vs4qBZcA)
 46. [P46 - ArrayList & Vector in Java](https://youtu.be/9f4fbj1YjY4)
+47. [P47 - Stack in Java](https://youtu.be/F5R7wn-ZXl0)
+48. [P48 - LinkedList in Java](https://youtu.be/ON7aGP85Kiw)
+49. [P49 - Assignment on List Interface in Java](https://youtu.be/uqSQQxIav70)
+50. [P50 - Map in Java](https://youtu.be/uJPB2V7ruN8)
 </details>
 
 <details>
@@ -327,7 +367,8 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 24. [Part 23 - Perform Mouse Actions in Selenium WebDriver](https://youtu.be/Sn-ObiJIE5E)
 25. [Part 24 - How to handle Calendars using Selenium WebDriver](https://youtu.be/nxdNPaKg7F8)
 26. [Part 25 - JavascriptExecutor in Selenium WebDriver](https://youtu.be/owCkCghqU-8)
-27. [Bonus - Common issues faced while working with Selenium WebDriver](https://youtu.be/oIhRNl5q3OI)
+27. [Part 26 - Selenium Manager in Selenium WebDriver](https://youtu.be/f9_AbQ1-nEU)
+28. [Bonus - Common issues faced while working with Selenium WebDriver](https://youtu.be/oIhRNl5q3OI)
 </details>
 
 <details>
