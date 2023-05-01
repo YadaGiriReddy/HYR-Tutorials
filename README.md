@@ -336,7 +336,9 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 48. [P48 - LinkedList in Java](https://youtu.be/ON7aGP85Kiw)
 49. [P49 - Assignment on List Interface in Java](https://youtu.be/uqSQQxIav70)
 50. [P50 - Map in Java](https://youtu.be/uJPB2V7ruN8)
-51. [P51 - P51 - Queue in Java](https://youtu.be/blIoH9IJlNY)
+51. [P51 - Queue in Java](https://youtu.be/blIoH9IJlNY)
+52. [P52 - Set in Java](https://youtu.be/EpMRkjt-FaU)
+53. [P53 - Handle properties files in Java](https://youtu.be/K4MEmLv0cZw)
 </details>
 
 <details>
