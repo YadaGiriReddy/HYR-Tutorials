@@ -444,6 +444,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 5. [Core Java - Assignment #5](https://youtu.be/6O85dy_Vk6M)
 6. [Core Java - Assignment #6](https://youtu.be/RQqEFpzdGOg)
 7. [Core Java - Assignment #7](https://youtu.be/8LNfuC2Kwgg)
+8. [Core Java - Assignment #8](https://youtu.be/LUhnZYI3Y6Y)
 </details>
 
 ***
