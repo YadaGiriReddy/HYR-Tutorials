@@ -339,6 +339,8 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 51. [P51 - Queue in Java](https://youtu.be/blIoH9IJlNY)
 52. [P52 - Set in Java](https://youtu.be/EpMRkjt-FaU)
 53. [P53 - Handle properties files in Java](https://youtu.be/K4MEmLv0cZw)
+54. [P54 - Iterator, ListIterator & Enumeration in Java](https://youtu.be/kJ0wclE5lZ4)
+55. [P55 - JDK, JRE and JVM in Java](https://youtu.be/UAnsiqNZl64)
 </details>
 
 <details>
