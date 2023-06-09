@@ -341,6 +341,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 53. [P53 - Handle properties files in Java](https://youtu.be/K4MEmLv0cZw)
 54. [P54 - Iterator, ListIterator & Enumeration in Java](https://youtu.be/kJ0wclE5lZ4)
 55. [P55 - JDK, JRE and JVM in Java](https://youtu.be/UAnsiqNZl64)
+56. [P56 - Memory Management in Java](https://youtu.be/8bqQp7xcc2Q)
 </details>
 
 <details>
