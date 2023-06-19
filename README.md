@@ -342,6 +342,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 54. [P54 - Iterator, ListIterator & Enumeration in Java](https://youtu.be/kJ0wclE5lZ4)
 55. [P55 - JDK, JRE and JVM in Java](https://youtu.be/UAnsiqNZl64)
 56. [P56 - Memory Management in Java](https://youtu.be/8bqQp7xcc2Q)
+57. [P57 - Anonymous objects in Java](https://youtu.be/wbb84Rwi_IQ)
 </details>
 
 <details>
