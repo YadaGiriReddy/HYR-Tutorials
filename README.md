@@ -344,6 +344,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 56. [P56 - Memory Management in Java](https://youtu.be/8bqQp7xcc2Q)
 57. [P57 - Anonymous objects in Java](https://youtu.be/wbb84Rwi_IQ)
 58. [P58 - Garbage Collection in java](https://youtu.be/5d_5V-us-Ic)
+59. [P59 - Inner classes in Java - Part 1](https://youtu.be/Hfp-PaAU4EY)
 </details>
 
 <details>
