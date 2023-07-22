@@ -346,6 +346,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 58. [P58 - Garbage Collection in java](https://youtu.be/5d_5V-us-Ic)
 59. [P59 - Inner classes in Java - Part 1](https://youtu.be/Hfp-PaAU4EY)
 60. [P60 - Inner classes in Java - Part 2](https://youtu.be/YpFz_6anXTA)
+61. [P61 - Interfaces in Java - Part 2](https://youtu.be/c5iq0VksvX8)
 </details>
 
 <details>
