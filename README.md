@@ -347,6 +347,11 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 59. [P59 - Inner classes in Java - Part 1](https://youtu.be/Hfp-PaAU4EY)
 60. [P60 - Inner classes in Java - Part 2](https://youtu.be/YpFz_6anXTA)
 61. [P61 - Interfaces in Java - Part 2](https://youtu.be/c5iq0VksvX8)
+62. [P62 - Lambda expressions in java](https://youtu.be/AdfXQVJVN2w)
+63. [P63 - Multithreading in Java - Part 1](https://youtu.be/-403CaIeo2o)
+64. [P64 - Multithreading in Java - Part 2](https://youtu.be/Cq4oikPOH_0)
+65. [P65 - Multithreading in Java - Part 3](https://youtu.be/v8rIwZqVsyA)
+66. [P66 - StringBuffer and StringBuilder in Java](https://youtu.be/g3iZXiu7KbU)
 </details>
 
 <details>
