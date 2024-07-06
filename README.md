@@ -352,6 +352,9 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 64. [P64 - Multithreading in Java - Part 2](https://youtu.be/Cq4oikPOH_0)
 65. [P65 - Multithreading in Java - Part 3](https://youtu.be/v8rIwZqVsyA)
 66. [P66 - StringBuffer and StringBuilder in Java](https://youtu.be/g3iZXiu7KbU)
+67. [P67 - this keyword in Java](https://youtu.be/RzxX-HtIlpY)
+68. [P68 - Type conversion in Java](https://youtu.be/XX3NIlp_Dpg)
+69. [P69 - Wrapper classes in Java](https://youtu.be/YbAzxeFRwIw)
 </details>
 
 <details>
