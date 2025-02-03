@@ -315,7 +315,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 27. [P27 - Arrays (Multi Dimensional) in Java](https://youtu.be/NY8nbEWq-UY)
 28. [P28 - Looping statements (foreach) in Java](https://youtu.be/NdItof24fyo)
 29. [P29 - Strings in Java](https://youtu.be/7otVOAZm6R8)
-30. [P30 - Static and Non static in java](https://youtu.be/7otVOAZm6R8)
+30. [P30 - Static and Non static in java](https://youtu.be/-sJ-z9SBdgs)
 31. [P31 - Type Inference with local variables in Java](https://youtu.be/VcDIytUbTjs)
 32. [P32 - OOPs in Java](https://youtu.be/2-NiRzi4jJU)
 33. [P33 - Inheritance in Java](https://youtu.be/3k-q-qk6MEU)
@@ -326,7 +326,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 38. [P38 - Abstraction in Java](https://youtu.be/sSR3czd45ZU)
 39. [P39 - Polymorphism in Java](https://youtu.be/dDSHPBB2Z4I)
 40. [P40 - Exception handling in Java - 1](https://youtu.be/9oxcNSeU96k)
-41. [P41 - Files in Java](https://youtu.be/vQleKEabzu4)
+41. [P41 - Handling Files in Java](https://youtu.be/vQleKEabzu4)
 42. [P42 - Handle text files in Java](https://youtu.be/sP33Aixm9rE)
 43. [P43 - Exception handling in Java - 2](https://youtu.be/20tUEKYTLpI)
 44. [P44 - POJO Class & Java Bean Class in Java ](https://youtu.be/jgNxBZ9194Q)
@@ -355,6 +355,10 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 67. [P67 - this keyword in Java](https://youtu.be/RzxX-HtIlpY)
 68. [P68 - Type conversion in Java](https://youtu.be/XX3NIlp_Dpg)
 69. [P69 - Wrapper classes in Java](https://youtu.be/YbAzxeFRwIw)
+70. [P70 - Ternary Operator in Java](https://youtu.be/7Y_C9tfnpXI)
+71. [P71 - Switch expression in Java](https://youtu.be/6MBngYv4xjw)
+72. [P72 - Final keyword in Java](https://youtu.be/uHJ1rZOdvS0)
+73. [P73 - Enum in Java](https://youtu.be/kI_SEKcJybY)
 </details>
 
 <details>
