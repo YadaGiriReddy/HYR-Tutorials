@@ -359,6 +359,10 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 71. [P71 - Switch expression in Java](https://youtu.be/6MBngYv4xjw)
 72. [P72 - Final keyword in Java](https://youtu.be/uHJ1rZOdvS0)
 73. [P73 - Enum in Java](https://youtu.be/kI_SEKcJybY)
+74. [P74 - Super keyword in Java](https://youtu.be/APrkG7YrUJc)
+75. [P75 - Generics in Java](https://youtu.be/w54ikax6Ic8)
+76. [P76 - Comparator and Comparable in Java](https://youtu.be/M-Z09QXqalo)
+77. [P77 - forEach Method in Java](https://youtu.be/e6VhbtzPTzY)
 </details>
 
 <details>
