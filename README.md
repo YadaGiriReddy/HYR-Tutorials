@@ -363,6 +363,7 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 75. [P75 - Generics in Java](https://youtu.be/w54ikax6Ic8)
 76. [P76 - Comparator and Comparable in Java](https://youtu.be/M-Z09QXqalo)
 77. [P77 - forEach Method in Java](https://youtu.be/e6VhbtzPTzY)
+78. [P78 - Method References in Java](https://youtu.be/0YbWqcE06h0)
 </details>
 
 <details>
