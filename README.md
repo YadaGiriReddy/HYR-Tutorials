@@ -364,6 +364,12 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 76. [P76 - Comparator and Comparable in Java](https://youtu.be/M-Z09QXqalo)
 77. [P77 - forEach Method in Java](https://youtu.be/e6VhbtzPTzY)
 78. [P78 - Method References in Java](https://youtu.be/0YbWqcE06h0)
+79. [P79 - Streams in Java](https://youtu.be/nKlzO5wQ1UU)
+80. [P80 - Java Stream Operations – 1](https://youtu.be/UBf3cz-8bNw)
+81. [P81 - Java Stream Operations – 2](https://youtu.be/PH9vE_QLwMg)
+82. [P82 - Optional in Java](https://youtu.be/WbX3mQM00Co)
+83. [P83 - Java Stream Operations – 3](https://youtu.be/KNrUlKj4aPE)
+84. [P84 - Java Stream Operations – 4](https://youtu.be/D3LkXXucVrg)
 </details>
 
 <details>
