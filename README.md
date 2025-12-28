@@ -483,14 +483,14 @@ https://www.youtube.com/channel/UCzFPWBdClpZ9afmmyhho4Rg/join
 ***
 
 ## Connect Me/ Follow Me @ 👇
-[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg">](mailto:hyadagirireddytutorials@gmail.com) &nbsp;
-[<img height="30" width="37" src = "https://cdn.worldvectorlogo.com/logos/blogger-1.svg">](https://www.hyrtutorials.com/)
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/Hyrtutorials)
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />](https://www.linkedin.com/company/hyrtutorials/) &nbsp;
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" />](https://www.facebook.com/HYRTutorials/)
+[<img height="30" width="37" src = "https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/gmail.svg">](mailto:hyadagirireddytutorials@gmail.com) &nbsp;
+[<img height="30" width="37" src = "https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/blogger.svg">](https://www.hyrtutorials.com/)
+[<img height="30" src="https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/twitter.svg" />](https://twitter.com/Hyrtutorials)
+[<img height="30" src="https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/linkedin.svg" />](https://www.linkedin.com/company/hyrtutorials/) &nbsp;
+[<img height="30" src="https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/facebook.svg" />](https://www.facebook.com/HYRTutorials/)
 &nbsp;
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/hyrtutorials/) &nbsp;
-[<img height="30" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" />](https://t.me/hyrtutorials)
+[<img height="30" src="https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/instagram.svg" />](https://www.instagram.com/hyrtutorials/) &nbsp;
+[<img height="30" src="https://github.com/YadaGiriReddy/YadaGiriReddy/raw/main/icons/telegram.svg" />](https://t.me/hyrtutorials)
 
 ***
 
